@@ -5,8 +5,7 @@
 Developed by [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt).
 Perceptron is an algorithm used for supervised learning.<br> Input for the algorithm is array of vectors, and it decides whether that input belongs to a specific class.
 
-
-<br>[Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
+More info on [Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
 
 ### About Implementation
 
